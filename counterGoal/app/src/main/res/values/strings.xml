@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">counterGoal</string>
+    <string name="team_a">Team A</string>
+    <string name="score">score</string>
+    <string name="remove_2_points">remove 2 points</string>
+    <string name="add_2_points">add 2 points</string>
+    <string name="reset_points">reset points</string>
+    <string name="team_b">Team B</string>
+</resources>
